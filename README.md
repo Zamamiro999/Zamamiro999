@@ -1,12 +1,35 @@
-- 👋 Hi, I’m Sid
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking for friends
-- 📫 my discord: glock.99
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im a beginer
+<h1 align="center">🚀 Sid // Python Learner</h1>
+███████╗██╗██████╗ ███████╗██╗██████╗
+██╔════╝██║██╔══██╗ ██╔════╝██║██╔══██╗
+███████╗██║██████╔╝ █████╗ ██║██║ ██║
+╚════██║██║██╔═══╝ ██╔══╝ ██║██║ ██║
+███████║██║██║ ██║ ██║██████╔╝
+╚══════╝╚═╝╚═╝ ╚═╝ ╚═╝╚═════╝
 
-<!---
-Zamamiro999/Zamamiro999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 🖤 **About Me**
+- 👀 Passion: **Python & tech exploration**
+- 🌱 Learning: **Python** (every day, leveling up 🆙)
+- 💞️ Looking for: **Friends & collabs**
+- 📫 **Discord:** `ohsidwhy`
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: *I’m a beginner… for now.*  
+
+---
+
+### 🛠 **Tech Stack**
+
+
+---
+
+### 💬 **Quote of the Day**
+> *"Every pro was once an amateur. Every expert was once a beginner."*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zamamiro999&label=Profile%20Views&color=00ff99&style=for-the-badge" alt="profile views"/>
+</p>
+
