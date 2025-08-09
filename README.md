@@ -1,35 +1,29 @@
-<h1 align="center">🚀 Sid // Python Learner</h1>
-███████╗██╗██████╗ ███████╗██╗██████╗
-██╔════╝██║██╔══██╗ ██╔════╝██║██╔══██╗
-███████╗██║██████╔╝ █████╗ ██║██║ ██║
-╚════██║██║██╔═══╝ ██╔══╝ ██║██║ ██║
-███████║██║██║ ██║ ██║██████╔╝
-╚══════╝╚═╝╚═╝ ╚═╝ ╚═╝╚═════╝
+# 🌌 Hey, I’m Sid
 
+> *Beginner Python dev with big dreams.*
 
 ---
 
-### 🖤 **About Me**
-- 👀 Passion: **Python & tech exploration**
-- 🌱 Learning: **Python** (every day, leveling up 🆙)
-- 💞️ Looking for: **Friends & collabs**
-- 📫 **Discord:** `ohsidwhy`
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: *I’m a beginner… for now.*  
+## 💫 About Me  
+- 👀 Passionate about **Python**  
+- 🌱 Currently learning **Python** (leveling up every day)  
+- 💞️ Looking for **friends & collaborations**  
+- 📫 **Discord:** `ohsidwhy`  
+- 😄 Pronouns: **he/him**  
+- ⚡ Fun fact: *Still a beginner… but not for long!*  
 
 ---
 
-### 🛠 **Tech Stack**
-
+## 🛠 Tech Interests  
+🐍 Python • 🔹 Git & GitHub • 🔹 Open Source • 🔹 Automation
 
 ---
 
-### 💬 **Quote of the Day**
-> *"Every pro was once an amateur. Every expert was once a beginner."*
+## 💡 Quote of the Day  
+> “Every master was once a beginner. Stay consistent.”
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zamamiro999&label=Profile%20Views&color=00ff99&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Zamamiro999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
